@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LUCKYWIKY</Machine>
+    <WindowsUser>Haliluya</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>800A0039A35F5B561F353B744BF0345A313A22CC0B75F241C040F1980386F9AC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5d81d313-d7ac-4ef5-a8f5-efddf1ac6a92_1.0.0.0_neutral__45y3f1tt074ep</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5d81d313-d7ac-4ef5-a8f5-efddf1ac6a92_45y3f1tt074ep!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5d81d313-d7ac-4ef5-a8f5-efddf1ac6a92</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Haliluya</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-23T13:18:21.158</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\Debug\iCareClient.exe">
+      <PackagePath>iCareClient.exe</PackagePath>
+      <Modified>2013-03-23T13:23:16.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\Debug\iCareClient.pdb">
+      <PackagePath>iCareClient.pdb</PackagePath>
+      <Modified>2013-03-23T13:23:16.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-04-02T15:39:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-23T13:04:25.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T12:23:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-03-23T13:23:15.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-23T13:17:34.338</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
