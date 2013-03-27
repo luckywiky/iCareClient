@@ -8,11 +8,17 @@
     mc:Ignorable="d">
 
     <Grid Background="Transparent">
-        <WebView x:ConnectionId='1' Name="webView" Source="http://192.168.1.204/"                                      >
-            <WebView.RenderTransform>
-                <CompositeTransform/>
-            </WebView.RenderTransform>
-        </WebView>
+
+
+        <WebView x:ConnectionId='1' Name="webView"                                        Source="http://192.168.1.204"  >
+                <WebView.RenderTransform>
+                    <CompositeTransform/>
+                </WebView.RenderTransform>
+            </WebView>
+      
+        
+      
+
     </Grid>
 </Page>
 

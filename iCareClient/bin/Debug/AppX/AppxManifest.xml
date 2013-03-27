@@ -7,9 +7,9 @@
 
     有关程序包清单文件的详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="5d81d313-d7ac-4ef5-a8f5-efddf1ac6a92" Publisher="CN=Haliluya" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="5d81d313-d7ac-4ef5-a8f5-efddf1ac6a92" Publisher="CN=Haliluya" Version="1.0.0.16" ProcessorArchitecture="neutral" />
   <Properties>
-    <DisplayName>iCareClient</DisplayName>
+    <DisplayName>移动医疗Client</DisplayName>
     <PublisherDisplayName>Haliluya</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -22,9 +22,12 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="iCareClient.exe" EntryPoint="iCareClient.App">
-      <VisualElements DisplayName="iCareClient" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="iCareClient" ForegroundText="light" BackgroundColor="#464646">
-        <DefaultTile ShowName="allLogos" />
-        <SplashScreen Image="Assets\SplashScreen.png" />
+      <VisualElements DisplayName="移动医疗" Logo="Assets\150+150.png" SmallLogo="Assets\SmallLogo.png" Description="iCareClient" ForegroundText="light" BackgroundColor="#ffffff">
+        <DefaultTile ShowName="wideLogoOnly" WideLogo="Assets\Logo.png" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#01b2de" />
+        <InitialRotationPreference>
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
       </VisualElements>
     </Application>
   </Applications>

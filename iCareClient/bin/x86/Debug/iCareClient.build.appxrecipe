@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LUCKYWIKY</Machine>
+    <WindowsUser>Haliluya</WindowsUser>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\x86\Debug\iCareClient.exe">
+      <PackagePath>iCareClient.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\x86\Debug\iCareClient.pdb">
+      <PackagePath>iCareClient.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\index-bottom.jpg">
+      <PackagePath>Assets\index-bottom.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\index-top.jpg">
+      <PackagePath>Assets\index-top.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\Logo1.png">
+      <PackagePath>Assets\Logo1.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\x86\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\x86\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\x86\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\CodeSource\win8\iCareClient\iCareClient\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

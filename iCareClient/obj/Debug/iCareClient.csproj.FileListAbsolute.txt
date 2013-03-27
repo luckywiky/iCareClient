@@ -21,3 +21,7 @@ E:\CodeSource\win8\iCareClient\iCareClient\obj\Debug\resources.resfiles
 E:\CodeSource\win8\iCareClient\iCareClient\obj\Debug\pri.resfiles
 E:\CodeSource\win8\iCareClient\iCareClient\obj\Debug\LanguageQualifiers.txt
 E:\CodeSource\win8\iCareClient\iCareClient\obj\Debug\ProjectArchitectures.txt
+E:\CodeSource\win8\iCareClient\iCareClient\obj\Debug\priconfig.xml.intermediate
+E:\CodeSource\win8\iCareClient\iCareClient\obj\Debug\layout.resfiles.intermediate
+E:\CodeSource\win8\iCareClient\iCareClient\obj\Debug\resources.resfiles.intermediate
+E:\CodeSource\win8\iCareClient\iCareClient\obj\Debug\pri.resfiles.intermediate

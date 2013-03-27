@@ -1,0 +1,1 @@
+E:\CodeSource\win8\iCareClient\iCareClient\iCareClient.csproj;neutral
